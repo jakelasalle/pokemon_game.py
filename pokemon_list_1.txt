@@ -1,0 +1,145 @@
+# Name	     Type 1	Type 2	T	HP	Att	Def	SpA	SpD	Spd	 Move 1	    Move 1 T  Move 1 P	Move 1 A  Move 2	 Move 2 T	Move 2 P  Move 2 A  Move 3	     Move 3 T  Move 3 P	 Move 3 A	Move 4	   Move 4 T	Move 4 P Move 4 A
+1,Bulbasaur,Grass,Poison,318,38,19,19,24,24,18,Growl,Normal,LATT1,100,NA,Tackle,Normal,40,100,PHY,Vine Whip,Grass,45,100,PHY,Leech Seed,Grass,MSHP.125,90,NA,Ivysaur
+1,Charmander,Fire,None,309,36,20,17,23,20,24,Scratch,Normal,40,100,PHY,Growl,Normal,LATT1,100,NA,Smokescreen,Normal,LACC1,100,NA,Ember,Fire,40,100,SPE,Charmeleon
+1,Squirtle,Water,None,314,38,19,24,20,24,17,Growl,Normal,LATT1,100,NA,Tail Whip,Normal,LDEF1,100,NA,Bubble,Water,40,100,SPE,Withdraw,Water,IDEF1,I,NA,Wartortle
+1,Chikorita,Grass,None,318,38,19,24,19,24,18,Growl,Normal,LATT1,100,NA,Tackle,Normal,40,100,PHY,Razor Leaf,Grass,55,95,PHY,Poison Powder,Poison,MN.125%,75,NA,Bayleef
+1,Cyndaquil,Fire,None,309,36,20,17,23,20,24,Ember,Fire,40,100,SPE,Tackle,Normal,40,100,PHY,Leer,Normal,LDEF1,100,NA,Smokescreen,Normal,LACC1,100,NA,Quilava
+1,Totodile,Water,None,314,40,24,24,18,19,17,Scratch,Normal,40,100,PHY,Leer,Normal,LDEF1,100,NA,Water Gun,Water,40,100,SPE,Bite,Dark,60,100,PHY,Croconaw
+1,Treecko,Grass,None,310,37,18,15,24,21,26,Leer,Normal,LDEF1,100,NA,Pound,Normal,40,100,PHY,Absorb,Grass,G20,100,SPE,Quick Attack(W),Normal,40,100,PHY,Grovyle
+1,Torchic,Fire,None,310,38,23,17,26,20,18,Growl,Normal,LATT1,100,NA,Scratch,Normal,40,100,PHY,Ember,Fire,40,100,SPE,Sand Attack,Ground,LACC1,100,NA,Combusken
+1,Mudkip,Water,None,310,40,26,20,20,20,17,Growl,Normal,LATT1,100,NA,Tackle,Normal,40,100,PHY,Water Gun,Water,40,100,SPE,Mud Slap,Ground,CLACC1.20,100,SPE,Marshtomp
+1,3
+2,Growlithe,Fire,None,350,39,24,17,24,19,21,Bite,Dark,60,100,PHY,Leer,Normal,LDEF1,100,NA,Ember,Fire,40,100,SPE,Tackle,Normal,40,100,PHY,None
+2,Poliwag,Water,None,300,35,19,16,16,16,30,Bubble,Water,40,100,SPE,Pound,Normal,40,100,PHY,Water Gun,Water,40,100,SPE,Hypnosis,Psychic,skip,60,NA,None
+2,Eevee,Normal,None,325,39,20,19,17,23,20,Growl,Normal,LATT1,100,NA,Tackle,Normal,40,100,PHY,Tail Whip,Normal,LDEF1,100,NA,Quick Attack(W),Normal,40,100,PHY,None
+3,Ivysaur,Grass,Poison,405,76,42,42,53,53,41,Razor Leaf,Grass,55,95,PHY,Leech Seed,Grass,MSHP.125,90,NA,Poison Powder,Poison,MN.125,75,NA,Sleep Powder,Grass,skip,75,NA,Venusaur
+3,Charmeleon,Fire,None,405,74,43,39,53,44,53,Ember,Fire,40,100,SPE,Smokescreen,Normal,LACC1,100,NA,Fire Punch,Fire,75,100,PHY,Toxic,Poison,MN.125,90,NA,Charizard
+3,Wartortle,Water,None,405,75,42,53,44,53,39,Water Gun,Water,40,100,SPE,Bite,Dark,60,100,PHY,Bubble Beam,Water,65,100,SPE,Withdraw,Water,IDEF1,I,NA,Blastoise
+3,Bayleef,Grass,None,405,76,42,53,42,53,41,Magical Leaf,Grass,60,I,SPE,Poison Powder,Poison,MN.125,75,NA,Natural Gift,Normal,60,100,PHY,Growl,Normal,LATT1,100,NA,Meganium
+3,Quilava,Fire,None,405,74,43,39,53,44,53,Flame Wheel,Fire,60,100,PHY,Swift,Normal,60,I,SPE,Quick Attack(W),Normal,40,100,PHY,Defense Curl,Normal,IDEF1,100,NA,Typhlosion
+3,Croconaw,Water,None,405,79,53,53,40,42,39,Ice Fang,Ice,Pskip.65.10,95,PHY,Crunch,Dark,80,100,PHY,Scary Face,Normal,LSPD2,100,NA,Aqua Jet(W),Water,40,100,PHY,Feraligatr
+3,Grovyle,Grass,None,405,70,44,32,56,44,62,Mega Drain,Grass,G40,100,SPE,Pursuit,Dark,40,100,PHY,Leaf Blade,Grass,90,100,PHY,Agility,Psychic,ISPE2,I,NA,Sceptile
+3,Combusken,Fire,Fighting,405,76,56,41,56,41,38,Double Kick,Fighting,60,100,PHY,Flame Charge,Fire,50,100,PHY,Quick Attack(W),Normal,40,100,PHY,Bulk Up,Fighting,DIATT1.IDEF1,I,NA,Blaziken
+3,Marshtomp,Water,Ground,405,82,56,47,41,47,35,Water Gun,Water,40,100,SPE,Rock Slide,Rock,75,90,PHY,Mud Bomb,Ground,PL.65.30.ACC1,85,SPE,Bite,Dark,60,100,PHY,Swampert
+1,3
+4,Pidgeotto,Normal,Flying,349,73,38,35,33,33,44,Wing Attack,Flying,60,100,PHY,Quick Attack(W),Normal,40,100,PHY,Agility,Psychic,ISPE2,100,NA,Sand Attack,Ground,LACC1,100,NA,None
+4,Plusle,Electric,None,405,71,33,27,52,47,58,Swift,Normal,60,I,SPE,Electro Ball,Electric,60,100,SPE,Charm,Fairy,LATT2,100,NA,Agility,Psychic,ISPE2,I,NA,None
+4,Gloom,Grass,Poison,395,71,41,44,52,47,27,Razor Leaf,Grass,55,95,PHY,Poison Powder,Poison,MN.125,75,NA,Sleep Powder,Grass,skip,75,NA,Acid,Poison,40,100,SPE,None
+5,Cubone,Ground,None,320,70,35,62,29,35,26,Bone Club,Ground,65,85,PHY,Headbutt,Normal,70,100,PHY,Leer,Normal,LDEF1,100,NA,Brick Break,Fighting,75,100,PHY,Marowak
+5,Staravia,Normal,Flying,340,73,50,8,31,31,53,Quick Attack(W),Normal,40,100,PHY,Aerial Ace,Flying,60,I,PHY,Take Down,Normal,90,85,PHY,Growl,Normal,LATT1,100,NA,Staraptor
+5,Electrike,Electric,None,295,64,32,29,44,29,44,Quick Attack(W),Normal,40,100,PHY,Bite,Dark,60,100,PHY,Discharge,Electric,80,100,SPE,Howl,Normal,IATT1,I,NA,Manectric
+2,2
+6,Dugtrio,Ground,None,425,57,44,29,29,44,72,Sand Attack,Ground,LACC1,100,NA,Scratch,Normal,40,100,PHY,Sucker Punch(W),Dark,70,100,PHY,Dig,Ground,T80,100,PHY,None
+6,Machoke,Fighting,None,405,82,61,44,33,38,30,Leer,Normal,LDEF1,100,NA,Brick Break,Fighting,75,100,PHY,Karate Chop,Fighting,50,100,PHY,Bulk Up,Fighting,DIATT1.IDEF1,I,NA,None
+6,Ariados,Bug,Poison,400,77,55,44,38,44,27,Sucker Punch(W),Dark,70,100,PHY,Absorb,Grass,G20,100,SPE,Fell Stinger,Bug,50,100,PHY,Shadow Sneak,Ghost,40,100,PHY,None
+6,Sealeo,Ice,Water,410,88,38,44,47,44,30,Aurora Beam,Ice,PL.65.10.ATT1,100,SPE,Brine,Water,65,100,SPE,Growl,Normal,LATT1,100,NA,Body Slam,Normal,85,100,PHY,None
+7,Venusaur,Grass,Poison,525,176,109,111,133,133,107,Take Down,Normal,90,85,PHY,Poison Powder,Poison,MN.125,75,NA,Sleep Powder,Grass,skip,75,NA,Razor Leaf,Grass,55,95,PHY,MEGA Venusaur
+7,Charizard,Fire,Flying,534,173,112,104,144,113,133,Flamethrower,Fire,90,100,SPE,Dragon Rage,Dragon,set40,100,SPE,Slash,Normal,70,100,PHY,Fly,Flying,T90,95,PHY,MEGA Charizard X
+7,Blastoise,Water,None,530,175,111,133,113,139,104,Bite,Dark,60,100,PHY,Bubble Beam,Water,65,100,SPE,Headbutt,Normal,70,100,PHY,Surf,Water,90,100,SPE,MEGA Blastoise
+7,Meganium,Grass,None,525,176,109,133,111,133,107,Magical Leaf,Grass,60,I,SPE,Synthesis,Grass,heal,I,NA,Body Slam,Normal,85,100,PHY,Poison Powder,Poison,MN.125,75,NA,None
+7,Typhlosion,Fire,None,534,173,112,104,144,113,133,Flamethrower,Fire,90,100,SPE,Swift,Normal,60,I,SPE,Inferno,Fire,MA.100,50,SPE,Quick Attack(W),Normal,40,100,PHY,None
+7,Feraligatr,Water,None,530,182,139,133,106,111,104,Crunch,Dark,80,100,PHY,Slash,Normal,70,100,PHY,Ice Fang,Ice,Pskip.65.10,95,PHY,Aqua Tail,Water,90,90,PHY,None
+7,Sceptile,Grass,None,530,163,113,88,139,113,158,Leaf Blade,Grass,90,100,PHY,X Scissor,Bug,80,100,PHY,Slam,Normal,80,75,PHY,Giga Drain,Grass,G75,100,SPE,MEGA Sceptile
+7,Blaziken,Fire,Fighting,530,176,158,94,145,94,107,Blaze Kick,Fire,PM.85.10,90,PHY,Sky Uppercut,Fighting,85,90,PHY,Slash,Normal,70,100,PHY,Bulk Up,Fighting,DIATT1.IDEF1,I,NA,MEGA Blaziken
+7,Swampert,Water,Ground,535,202,145,120,113,120,81,Muddy Water,Water,PL.90.30.ACC1,85,SPE,Take Down,Normal,90,85,PHY,Earthquake,Ground,100,100,PHY,Rock Slide,Rock,75,90,PHY,MEGA Swampert
+7,Marowak,Ground,None,425,150,107,145,69,107,62,Bone Club,Ground,65,85,PHY,Headbutt,Normal,70,100,PHY,Earthquake,Ground,100,100,PHY,Brick Break,Fighting,75,100,PHY,Alolan Marowak
+7,Staraptor,Normal,Flying,485,182,158,94,69,81,133,Aerial Ace,Flying,60,I,PHY,Take Down,Normal,90,85,PHY,Agility,Psychic,ISPE2,I,NA,Brave Bird,Flying,120,100,PHY,None
+7,Manectric,Electric,None,475,163,101,81,139,81,139,Thunder,Electric,110,70,SPE,Bite,Dark,60,100,PHY,Wild Charge,Electric,90,100,PHY,Charge,Electric,ISPD1,I,NA,MEGA Manectric
+2,2
+8,Gastrodon,Water,Ground,475,219,100,83,111,99,49,Muddy Water,Water,PL.90.30.ACC1,85,SPE,Body Slam,Normal,85,100,PHY,Mud Bomb,Ground,PL.65.30.ACC1,85,SPE,Harden,Normal,IDEF1,I,NA,None
+8,Cacturne,Grass,Dark,475,166,154,83,154,83,68,Sucker Punch(W),Dark,70,100,PHY,Energy Ball,Grass,90,100,SPE,Cotton Spore,Grass,LSPE2,100,NA,Magical Leaf,Grass,60,I,SPE,None
+8,Steelix,Steel,Ground,510,172,115,265,76,89,44,Iron Tail,Steel,100,75,PHY,Crunch,Dark,80,100,PHY,Dig,Ground,T80,100,PHY,Rock Slide,Rock,75,90,PHY,None
+8,Flygon,Ground,Dragon,520,179,135,109,109,109,135,Dragon Rush,Dragon,100,70,PHY,Earthquake,Ground,100,100,PHY,Screech,Normal,LDEF2,85,NA,Rock Slide,Rock,75,90,PHY,None
+9,Espeon,Psychic,None,525,157,88,81,171,126,145,Quick Attack(W),Normal,40,100,PHY,Psybeam,Psychic,65,100,SPE,Swift,Normal,60,I,SPE,Morning Sun,Normal,heal,I,NA,None
+9,Altaria,Dragon,Flying,490,170,94,120,94,139,107,Dragon Dance,Dragon,DIATT1.ISPE1,I,NA,Dragon Pulse,Dragon,85,100,SPE,Cotton Guard,Grass,IDEF3,I,NA,Fly,Flying,T90,95,PHY,MEGA Altria
+9,Conkeldurr,Fighting,None,505,208,184,126,75,88,62,Wake Up Slap,Fighting,70,100,PHY,Rock Slide,Rock,75,90,PHY,Bulk Up,Fighting,DIATT1.IDEF1,I,NA,Scary Face,Normal,LSPE2,100,NA,None
+3,2
+10,Scizor,Bug,Steel,500,166,174,135,76,109,89,X Scissor,Bug,80,100,PHY,Iron Head,Steel,80,100,PHY,Night Slash,Dark,70,100,PHY,Swords Dance,Normal,IATT2,I,NA,None
+10,Nidoking,Poison,Ground,505,180,124,105,115,102,115,Megahorn,Bug,120,85,PHY,Brick Break,Fighting,75,100,PHY,Rock Slide,Rock,75,90,PHY,Toxic,Poison,MN.125,90,NA,None
+10,Emboar,Fire,Fighting,528,218,164,89,135,89,89,Flamethrower,Fire,90,100,SPE,Take Down,Normal,90,85,PHY,Defense Curl,Normal,IDEF1,I,NA,Assurance,Dark,60,100,PHY,None
+10,Aurorus,Rock,Ice,521,234,105,98,133,124,80,Ancient Power,Rock,60,100,SPE,Round,Normal,60,100,SPE,Ice Beam,Ice,Pskip.90.10,100,SPE,Earth Power,Ground,90,100,SPE,None
+10,Arcanine,Fire,None,555,192,148,109,135,109,128,Flamethrower,Fire,90,100,SPE,Crunch,Dark,80,100,PHY,Agility,Psychic,ISPE2,I,NA,Extreme Speed(W),Normal,80,100,PHY,None
+10,Jolteon,Electric,None,525,159,89,83,148,128,174,Thunder,Electric,110,70,SPE,Agilty,Psychic,ISPE2,I,NA,Double Kick,Fighting,60,100,PHY,Sand Attack,Ground,LACC1,100,NA,None
+Revive,heal,1
+Super Potion,heal,2
+Hyper Potion,heal,1
+Pokeball,pokeball,3
+Great Ball,pokeball,2
+Ultra Ball,pokeball,1
+3,1
+11,Torterra,Grass,Ground,525,198,146,141,102,115,77,Crunch,Dark,80,100,PHY,Giga Drain,Grass,G75,100,SPE,Leech Seed,Grass,MSHP.125,90,NA,Earthquake,Ground,100,100,PHY,None
+11,Tentacruel,Water,Poison,515,179,96,89,109,161,135,Surf,Water,90,100,SPE,Poison Jab,Poison,80,100,PHY,Barrier,Psychic,IDEF2,I,NA,Screech,Normal,LDEF2,85,NA,None
+11,Haxorus,Dragon,None,540,173,196,122,83,96,131,Swords Dance,Normal,IATT2,I,NA,Dragon Dance,Dragon,DIATT1.ISPE1,I,NA,Dragon Pulse,Dragon,85,100,SPE,Slash,Normal.70,100,PHY,None
+Max Revive,heal,1
+Hyper Potion,heal,1
+Ultra Ball,pokeball,1
+12,Gallade,Psychic,Fighting,518,161,148,79,79,136,96,Swords Dance,Normal,IATT2,I,NA,Psycho Cut,Psychic,70,100,PHY,Slash,Normal,70,100,PHY,Fire Punch,Fire,PM.75.10,100,PHY,MEGA Gallade
+12,Gyarados,Water,Flying,540,195,165,106,81,133,108,Crunch,Dark,80,100,PHY,Hydro Pump,Water,110,80,SPE,Hyper Beam,Normal,reach150,90,SPE,Dragon Pulse,Dragon,85,100,SPE,MEGA Gyarados
+12,Electivire,Electric,None,540,170,162,90,126,113,126,Giga Impact,Normal,reach150,90,PHY,Thunder,Electric,110,70,SPE,Screech,Normal,LDEF2,85,NA,Cross Chop,Fighting,100,80,PHY,None
+12,Zapdos,Electric,Flying,580,189,120,113,181,132,133,Thunder,Electric,110,70,SPE,Roost,Flying,heal,I,NA,Drill Peck,Flying,80,100,PHY,Toxic,Poison,MN.125,90,NA,None
+12,Articuno,Ice,Flying,580,189,113,133,126,165,113,Blizzard,Ice,Pskip.110.10,70,SPE,Roost,Flying,heal,I,NA,Agility,Psychic,ISPE2,100,NA,Sky Attack,Flying,T140,90,PHY,None
+12,Garchomp,Dragon,Ground,600,212,171,126,107,113,135,Dragon Claw,Dragon,80,100,PHY,Dig,Ground,T80,100,PHY,Earthquake,Ground,100,100,PHY,Take Down,Normal,90,85,PHY,MEGA Garchomp
+4,1
+13,Krookodile,Ground,Dark,519,198,141,98,80,86,111,Crunch,Dark,80,100,PHY,Dig,Ground,T80,100,PHY,Earthquake,Ground,100,100,PHY,Scary Face,Dark,LSPE2,100,NA,None
+13,Milotic,Water,None,540,198,83,107,135,167,110,Hydro Pump,Water,110,80,SPE,Recover,Normal,heal,I,NA,Coil,Poison,DIATT1.IDEF1,I,NA,Dragon Pulse,85,100,SPE,None
+13,Regirock,Rock,None,580,179,135,265,70,135,70,Hammer Arm,Fighting,CDSPE1.100,90,PHY,Stone Edge,Rock,100,80,PHY,Hyper Beam,Normal,reach150,90,SPE,Iron Defense,Steel,IDEF2,I,NA,None
+13,Uxie,Psychic,None,580,172,102,174,102,174,28,Swift,Normal,60,I,SPE,Giga Drain,Grass,G75,100,SPE,Psychic,Psychic,90,100,SPE,Thunder,Electric,110,70,SPE,None
+1,MEGA Venusaur,Grass,Poison,600,176,133,162,161,158,107,Solar Beam,Grass,T120,100,SPE,Growth,Normal,DIATT1.ISPA1,I,NA,Synthesis,Grass,heal,I,NA,Sludge Bomb,Poison,PM.90.30,100,SPE,None
+1,MEGA Charizard X,Fire,Dragon,600,173,171,147,171,113,133,Fire Blast,Fire,PM.110.10,85,PHY,Wing Attack,Flying,60,100,PHY,Hyper Beam,Normal,reach150,90,SPE,Roost,Flying,heal,I,NA,None
+1,MEGA Blastoise,Water,None,600,175,136,158,177,152,104,Skull Bash,Normal,T130,100,PHY,Hydro Pump,Water,110,80,SPE,Ice Beam,Ice,Pskip.90.10,100,SPE,Toxic,Poison,MN.125,90,NA,None
+1,MEGA Sceptile,Grass,Dragon,600,163,145,101,190,113,190,Leaf Storm,Grass,CDSPA2.120,90,SPE,Dual Chop,Dragon,80,90,PHY,Synthesis,Grass,heal,I,NA,Throat Chop,Dark,80,100,PHY,None
+1,MEGA Blaziken,Fire,Fighting,600,176,209,107,171,107,133,Flare Blitz,Fire,PM.120.10,100,PHY,Sky Uppercut,Fighting,85,90,PHY,Blaze Kick,Fire,PM.85.10,90,PHY,Brave Bird,Flying,120,100,PHY,None
+1,MEGA Swampert,Water,Ground,202,197,145,126,145,94,Earthquake,Ground,100,100,PHY,Hammer Arm,Fighting,CDSPE1.100,90,PHY,Hydro Cannon,Water,reach150,90,SPE,Protect(W),Normal,protect,100,NA,None
+1,Alolan Marowak,Fire,Ghost,600,150,107,145,69,107,62,Double Edge,Normal,120,100,PHY,Bonemerang,Ground,100,90,PHY,Swords Dance,Normal,IATT2,I,NA,Flamethrower,Fire,90,100,SPE,None
+1,MEGA Manectric,Electric,None,600,163,101,107,177,107,177,Thunder,Electric,110,70,SPE,Crunch,Dark,80,100,PHY,Ice Fang,Ice,Pskip.65.10,95,PHY,Fire Fang,Fire,PM.65.10,95,PHY,None
+1,MEGA Altria,Dragon,Fairy,600,170,145,145,145,139,107,Sky Attack,Flying,T140,90,PHY,Moonblast,Fairy,PL.95.30.SPA1,SPE,Dragon Pulse,Dragon,85,100,SPE,Cotton Guard,Grass,IDEF3,I,NA,None
+1,MEGA Gallade,Psychic,Fighting,600,161,216,126,88,152,145,Psychic,Psychic,90,100,SPE,Swords Dance,Normal,IATT2,I,NA,Close Combat,Fighting,CDSPD1.120,100,PHY,Protect(W),Normal,protect,100,NA,None
+1,MEGA Gyarados,Water,Dark,600,195,203,144,94,171,108,Crunch,Dark,80,100,PHY,Hydro Pump,Water,110,80,SPE,Hyper Beam,Normal,reach150,90,SPE,Hurricane,Flying,110,70,SPE,None
+1,MEGA Garchomp,Dragon,Ground,600,212,222,152,158,126,122,Aqua Tail,Water,90,90,PHY,Dig,Ground,T80,100,PHY,Earthquake,Ground,100,100,PHY,Draco Meteor,Dragon,CDSPA2.130,90,PHY,None
+1,MEGA Salamence,Dragon,Flying,600,195,190,171,158,120,158,Flamethrower,Fire,90,100,SPE,Giga Impact,Normal,reach150,90,PHY,Draco Meteor,Dragon,CDSPA2.130,90,PHY,Zen Headbutt,Psychic,80,90,PHY,None
+1,Primal Groudon,Ground,Fire,600,202,235,209,197,120,120,Eruption,Fire,150,100,SPE,Hammer Arm,Fighting,CDSPE1.100,90,PHY,Precipice Blades,Ground,120,85,PHY,Solar Beam,Grass,120,100,SPE,None
+1,Primal Kyogre,Water,None,600,202,197,120,235,209,120,Water Spout,Water,150,100,SPE,Ice Beam,Ice,Pskip.90.10,100,SPE,Double Edge,Normal,120,100,PHY,Thunder,Electric,110,70,SPE,None
+1,MEGA Mewtwo Y,Psychic,None,600,209,197,94253,158,184,Psychic,Psychic,90,100,SPE,Barrier,Psychic,IDEF2,I,NA,Thunder,Electric,110,70,SPE,Hyper Beam,Normal,reach150,90,SPE,None
+1,MEGA Rayquaza,Dragon,Flying,600,208,235,133,235,133,152,Dragon Ascent,Flying,CDDEF1.120,100,PHY,Draco Meteor,Dragon,CDSPA2.130,90,PHY,Hyper Beam,Normal,reach150,90,SPE,Solar Beam,Grass,120,100,SPE,None
+1,MEGA Latias,Dragon,Psychic,600,176,133,158,184,197,145,Psychic,Psychic,90,100,SPE,Dragon Pulse,Dragon,85,100,SPE,Draco Meteor,Dragon,CDSPA2.130,90,PHY,Extreme Speed(W),Normal,80,100,PHY,None
+Ultra Ball,pokeball,2
+Evolution Stone,item,1
+Max Revive,heal,2
+14,Moltres,Fire,Flying,600,189,133,120,165,113,120,Sky Attack,Flying,T140,90,PHY,Roost,Flying,heal,I,NA,Heat Wave,Fire,PM.95.10,90,SPE,Solar Beam,Grass,120,100,SPE,None
+14,Salamence,Dragon,Flying,600,195,177,107,145,107,133,Flamethrower,Fire,90,100,SPE,Double Edge,Normal,120,100,PHY,Dragon Claw,Dragon,80,100,PHY,Zen Headbutt,Psychic,80,90,PHY,MEGA Salamence
+14,Dragonite,Dragon,Flying,600,190,176,126,133,133,107,Roost,Flying,heal,I,NA,Hyper Beam,Normal,reach150,90,SPE,Hurricane,Flying,110,70,SPE,Dragon Rush,Dragon,100,70,PHY,None
+14,Regigigas,Normal,None,600,214,209,145,107,145,133,Giga Impact,Normal,reach150,90,Heavy Slam,Steel,100,100,PHY,Crush Grip,Normal,100,100,PHY,Zen Headbutt,Psychic,80,90,PHY,None
+14,Groudon,Ground,None,600,202,197,184,133,120,120,Fire Blast,Fire,110,85,SPE,Hammer Arm,Fighting,CDSPE1.100,90,PHY,Earthquake,Ground,100,100,PHY,Solar Beam,Grass,120,100,SPE,Primal Groudon
+14,Kyohre,Water,None,600,202,133,120,197,184,120,Hydro Pump,Water,110,80,SPE,Ice Beam,Ice,Pskip.90.10,100,SPE,Double Edge,Normal,120,100,PHY,Muddy Water,Water,PL.90.30.ACC1,85,SPE
+5,1
+15,Crobat,Poison,Flying,600,185,109,98,86,98,156,Air Slash,Flying,75,95,SPE,Leech Life,Bug,G80,100,PHY,Poison Fang,Poison,PM.50.50,100,PHY,Cross Poison,Poison,PM.70.10,100,PHY,None
+15,Regice,Ice,None,600,179,70,135,135,265,70,Hyper Beam,Normal,reach150,90,SPE,Zap Cannon,Electric,120,50,SPE,Hammer Arm,Fighting,CDSPE1.100,90,PHY,Ice Beam,Ice,Pskip.90.10,100,SPE,None
+15,Cobalion,Steel,Fighting,600,193,122,172,122,98,145,Sacred Sword,Fighting,90,100,PHY,Iron Head,Steel,80,100,PHY,Work Up,Normal,DIATT1.ISPA1,I,NA,Flash Cannon,Steel,PL.80.10,100,SPE,None
+15,Heatran,Fire,Steel,600,193,122,142,174,142,105,Stone Edge,Rock,100,80,PHY,Magma Storm,Fire,MA.100,75,SPE,Earth Power,Ground,90,100,SPE,Heat Wave,Fire,PM.95.10,90,SPE,None
+15,MEGA Lucario,Fighting,Steel,600,166,193,119,187,96,150,Extreme Speed(W),Normal,80,100,PHY,Dragon Pulse,Dragon,85,100,SPE,Work Up,Normal,DIATT1.ISPA1,I,NA,Close Combat,Fighting,CDSPD1.120,100,PHY,None
+Hyper Potion,heal,3
+Evolution Stone,item,1
+Max Revive,heal,2
+Master Ball,pokeball,1
+Evolution Stone,item,1
+Max Revive,heal,3
+16,Latias,Dragon,Psychic,600,176,107,120,145,171,145,Psychic,Psychic,90,100,SPE,Dragon Pulse,Dragon,85,100,SPE,Ice Beam,Ice,Pskip.90.10,100,SPE,Extreme Speed(W),Normal,80,100,PHY,MEGA Latias
+16,Dialga,Steel,Dragon,600,202,158,158,197,133,120,Roar Of Time,Dragon,reach150,90,SPE,Earth Power,Ground,90,100,SPE,Flash Cannon,Steel,PL.80.10,100,SPE,Aura Sphere,Fighting,80,I,SPE,None
+16,Palkia,Water,Dragon,600,189,158,133,197,158,133,Hydro Pump,Water,110,80,SPE,Earth Power,Ground,90,100,SPE,Aura Sphere,Fighting,80,I,SPE,Spacial Rend,Dragon,100,95,SPE,None
+16,Mewtwo,Psychic,None,600,209,145,120,202,120,171,Psychic,Psychic,90,100,SPE,Barrier,Psychic,IDEF2,I,NA,Thunder,Electric,110,70,SPE,Recover,Normal,heal,I,NA,MEGA Mewtwo Y
+16,Rayquaza,Dragon,Flying,600,208,197,120,197,120,126,Hyper Beam,Normal,reach150,90,SPE,Solar Beam,Grass,120,100,SPE,Fly,Flying,T90,95,PHY,Dragon Pulse,Dragon,85,100,SPE,MEGA Rayquaza
+16,Arceus,Normal,None,600,227,158,158,158,158,158,Judgment,Normal,100,100,SPE,Hyper Beam,Normal,reach150,90,SPE,Recover,Normal,heal,I,NA,Extreme Speed(W),Normal,80,100,PHY,None
+17,MEGA Aggron,Steel,None,600,166,187,304,83,109,70,Double Edge,Normal,120,100,PHY,Heavy Slam,Steel,100,100,PHY,Iron Defense,Steel,IDEF2,I,NA,Rock Slide,Rock,75,90,PHY,None
+17,Ho oh,Fire,Flying,600,212,174,122,148,205,122,Sky Attack,Flying,T140,90,PHY,Recover,Normal,heal,I,NA,Scared Fire,Fire,PM.100.50,95,PHY,Natural Gift,Electric,80,100,PHY,None
+17,MEGA Metagross,Steel,Psychic,600,179,193,200,141,148,148,Hyper Beam,Normal,reach150,90,SPE,Psychic,Psychic,90,100,SPE,Meteor Mash,Steel,90,90,PHY,Iron Defense,Steel,IDEF2,I,NA,None
+Hyper Potion,heal,3
+Evolution Stone,item,1
+Max Revive,heal,2
+6,1
+18,Archeops,Rock,Flying,600,172,187,89,150,89,148,Rock Slide,Rock,75,90,PHY,Dragon Claw,Dragon,80,100,PHY,Crunch,Dark,80,100,PHY,Acrobatics,Flying,110,100,PHY,None
+18,MEGA Tyranitar,Rock,Dark,600,205,218,200,128,161,97,Earthquake,Ground,100,100,PHY,Giga Impact,Normal,reach150,90,PHY,Crunch,Dark,80,100,PHY,Stone Edge,Rock,100,80,PHY,None
+18,MEGA Absol,Dark,None,600,159,200,83,154,83,154,Sucker Punch(W),Dark,70,100,PHY,Razor Wind,Normal,80,100,SPE,Psycho Cut,Psychic,70,100,PHY,Swords Dance,Normal,IATT2,I,NA,None
+18,MEGA Pidgeot,Normal,Flying,600,182,109,109,180,109,162,Razor Wind,Normal,80,100,SPE,Air Slash,Flying,75,95,SPE,Roost,Flying,heal,I,NA,Fly,Flying,T90,95,PHY,None
+18,MEGA Latios,Dragon,Psychic,600,179,174,135,213,161,148,Psychic,Psychic,90,100,SPE,Dragon Pulse,Dragon,85,100,SPE,Draco Meteor,Dragon,CDSPA2.130,90,PHY,Extreme Speed(W),Normal,80,100,PHY,None
+18,Kyurem White,Dragon,Ice,600,237,161,122,226,135,128,Blizzard,Ice,Pskip.110.10,70,SPE,Hyper Voice,Normal,90,100,SPE,Draco Meteor,Dragon,CDSPA2.130,90,PHY,Earth Power,Ground,90,100,SPE
+
